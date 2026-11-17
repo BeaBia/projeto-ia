@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+caminho_kaggle.txt
+data/*
+!data/.gitkeep
+models/*.pkl
+models/*.json
+!models/.gitkeep
+.streamlit/secrets.toml
